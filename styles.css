@@ -1,0 +1,10 @@
+.blksq {
+   background-color: black;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   height: 100px;
+   width: 100px;
+   margin: 7px; 
+}
